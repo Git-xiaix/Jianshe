@@ -45,7 +45,7 @@ miku:
     # 设置jwt过期时间 (7天)
     user-ttl: 604800000
     # 设置jwt签名加密时使用的秘钥
-    user-secret-key: mikuit
+    user-secret-key: 8PhwW3xH0Kq4Z9j2aN1sM0vC3bR5fT8yL6uE0kP4wQ8=
     # 设置前端传递过来的令牌名称
     user-token-name: tokename
     # 设置Cookie请求头名称

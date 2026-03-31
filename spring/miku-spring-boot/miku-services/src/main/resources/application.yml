@@ -59,3 +59,8 @@ miku:
 turnstile:
   secret:
     key: "0x4AAAAAACyBuvEogsmlkbAkzXQhFqZg3M8"
+
+# NewsAPI配置
+news:
+  api:
+    key: "e42cef66fce341ab8df56d7fbaab567c"
